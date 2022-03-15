@@ -1,3 +1,15 @@
+Portfolio link:
+http://gopipatwa.herokuapp.com/
+
+git clone https://github.com/Gopipatwa/backend.git
+cd Backend
+python -m venv myvenv
+myvenv\Scripts\activate
+pip install -r requirements.txt
+python manage.py runserver
+
+*started Application*
+
 *Registeration*
 
 /api/register/
@@ -45,3 +57,5 @@
 
 retrive data for other operation like delete edit or single view
 /api/product/{int}/
+
+I also Know Fronted
